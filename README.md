@@ -2,8 +2,8 @@
 
 
 
-In this notebooks shown basics operations of Pandas, Numpy and Matplotlib which is so necessary for any Data Wrangling. If you does not understand data and does not perform Data Wrangling you could not find out proper result. Which will reflects your target forcasting. After Data Wrangling we have a dataset with no missing values.
-
+In this notebooks shown basics operations of Pandas, Numpy and Matplotlib which is so necessary for any Data Wrangling. If you does not understand data and does not perform Data Wrangling you could not find out proper result. Which will reflects your target forcasting. **After Data Wrangling we have a dataset with no missing values.
+**
 ### Data Set Information
 ________________________________________________________________
 
